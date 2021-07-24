@@ -1,0 +1,5 @@
+зарезервировано:
+let
+class
+return
+function
